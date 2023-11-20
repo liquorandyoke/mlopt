@@ -7,7 +7,7 @@ ecos==2.0.7.post1
 flake8==3.8.1
 future==0.18.2
 greenlet==0.4.15
-gurobipy==9.0.2
+gurobipy
 ipdb==0.13.2
 ipython==7.14.0
 ipython-genutils==0.2.0
